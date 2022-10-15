@@ -1,8 +1,14 @@
 
-# Weather React App
+# Weather React App 🌤🌤
 
 ![](https://github.com/sreoshee-17/weather-react-app/blob/main/Warm-weather.png)
 ![](https://github.com/sreoshee-17/weather-react-app/blob/main/Cold-weather.png)
+
+
+# Link
+https://weather-pointer-react.netlify.app/
+
+
 ##  Features
 * Gives information about the date, location, temperature and current weather condition
 * Dynamic background changes with weather condition
@@ -15,32 +21,11 @@
 
 
 
-### To install all the required dependecies
+## Deployment
 
+To deploy this project run
+
+```bash
+  npm run deploy
 ```
-npm install
-```
-
-## Start the project
-
-```
-npm start
-```
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-### Test the application
-
-```
-npm test
-```
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### Build application
-
-```
-npm run build
 
